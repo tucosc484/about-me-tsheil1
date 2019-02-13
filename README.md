@@ -5,3 +5,5 @@ So far the only development experience I have is from course work through Towson
 After college I hope to work in the private sector on a red team or as a pen tester. In the private sector I plan to increase my skill set to help secure a job in the government. The job I want for the government is still unclear to me at this time, but it will defintely be centered around cyber security.
 ## 3. What programming experience do you have? Do you have any web experience?
 Currently I have experience with C, C++, C#, Java, Python, MySQL, MSSQL, and .NET CORE. As mentioned earlier, I spent 10 weeks as a full time, full stack web developer. I was working with a team of 5, but I was the computer science major and had to handle the website by myself. Having no previous web development experience, this was a daunting task, but I am extremely proud of the end product. My team and I decided to do a complete microsoft build. We developed with Visual Studio and using .NET CORE 2.0 with Razor Pages. We utilized Microsoft SQL as the database and Azure for the hosting. 
+##4. Link to Code Academy profile 
+https://www.codecademy.com/thomas_sheil1
